@@ -33,7 +33,7 @@ Tutorial git hub
 
 			D. Undo Push / Reverse Commit
 			   Terdapat 3 Kondisi yaitu:
-				1. Kondisi Sebelum stage 
+				1. Kondisi Sebelum stage/modified
 					command: # git checkout [nama file]
 					command ini sangat berbahaya, dapat menghapus isi dari file yang telah dibuat.
 
