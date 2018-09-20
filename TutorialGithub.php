@@ -23,7 +23,11 @@ Tutorial git hub
 			  3. git commit -m "pesan"
 			  4. git push origin master
 
-			C.			
+			C. Undo Push / Reverse Commit
+
+
+
+
 		</code>		
 	</pre>
 
