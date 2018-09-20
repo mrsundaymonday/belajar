@@ -42,7 +42,9 @@ Tutorial git hub
 					mengembalikan kondisi dari staged kedalam kondisi modified lagi.
 
 				3. Kondisi sudah commit
-					command: #
+					command: #git checkout [kode commit] [nama file]
+
+					kode commit dapat diperoleh dengan cara #git log
 
 
 
