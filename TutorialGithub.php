@@ -24,6 +24,7 @@ Tutorial git hub
 			  4. git push origin master
 
 			C. Undo Push / Reverse Commit
+				Harus cari tutorial baru
 
 
 
