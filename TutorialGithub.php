@@ -21,7 +21,9 @@ Tutorial git hub
 			  1. git init
 			  2. git add .(semua) / git add [namafile](per nama file)
 			  3. git commit -m "pesan"
-			  4. git push origin master
+			  4. git remote add origin [repo_url]
+			  5. git remote -v //verify repo
+			  6. git push origin master
 
 			C. log & Diff
 				Log untuk melihat log perubahan terakhir. sedangkan diff digunakan untuk membandingkan perubahan apa saja yang telah dilakukan terhadap file.
