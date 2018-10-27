@@ -23,7 +23,17 @@ Tutorial git hub
 			  3. git commit -m "pesan"
 			  4. git remote add origin [repo_url]
 			  5. git remote -v //verify repo
-			  6. git push origin master
+			  6. git push origin master 
+
+				Error:	Github “Updates were rejected because the remote contains work that you do not have”
+
+			  apabila error pada saat langkah "push" seperti diatas,
+			  maka pastikan repo yang dituju sudah benar dengan cara (git remote -v) selanjutnya 
+			  lakukan force push.
+			  
+			  7. git push -f origin master.
+
+			  =====================================
 
 			C. log & Diff
 				Log untuk melihat log perubahan terakhir. sedangkan diff digunakan untuk membandingkan perubahan apa saja yang telah dilakukan terhadap file.
@@ -47,6 +57,9 @@ Tutorial git hub
 					command: #git checkout [kode commit] [nama file]
 
 					kode commit dapat diperoleh dengan cara #git log
+
+			E. Mengganti Repo yang sudah dicommit
+				* git remote set_url origin [git repo baru]
 
 
 
